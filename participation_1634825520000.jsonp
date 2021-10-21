@@ -1,0 +1,1 @@
+jsoncallback({"views":[{"name":"allCryptoAssets","tasks":[{"request":{"url":"https://api.coincap.io/v2/assets?limit=10","method":"GET","headers":{"dataType":"Map","value":[["Accept","*/*"]]}},"isSequenced":false}],"interval":86400000}],"httpRoot":"https://raw.githubusercontent.com/bandquinoa/test/main","timestamp":1634825573610,"nodeId":"8241efb5-677d-4e9f-a1b0-e6b47ff079e0"});
